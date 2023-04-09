@@ -6,7 +6,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links
+  - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
 
